@@ -1,0 +1,6 @@
+C:\Users\go2me\Projects\GrandCircusJune2017\MJN_Day1Lab_Perim\MJN_Day1Lab_Perim\bin\Debug\MJN_Day1Lab_Perim.exe.config
+C:\Users\go2me\Projects\GrandCircusJune2017\MJN_Day1Lab_Perim\MJN_Day1Lab_Perim\bin\Debug\MJN_Day1Lab_Perim.exe
+C:\Users\go2me\Projects\GrandCircusJune2017\MJN_Day1Lab_Perim\MJN_Day1Lab_Perim\bin\Debug\MJN_Day1Lab_Perim.pdb
+C:\Users\go2me\Projects\GrandCircusJune2017\MJN_Day1Lab_Perim\MJN_Day1Lab_Perim\obj\Debug\MJN_Day1Lab_Perim.csprojResolveAssemblyReference.cache
+C:\Users\go2me\Projects\GrandCircusJune2017\MJN_Day1Lab_Perim\MJN_Day1Lab_Perim\obj\Debug\MJN_Day1Lab_Perim.exe
+C:\Users\go2me\Projects\GrandCircusJune2017\MJN_Day1Lab_Perim\MJN_Day1Lab_Perim\obj\Debug\MJN_Day1Lab_Perim.pdb
