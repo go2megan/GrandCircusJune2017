@@ -1,0 +1,5 @@
+/Users/meegsmakes/Projects/MJN_Lab2_Condition/MJN_Lab2_Condition/obj/x86/Debug/MJN_Lab2_Condition.csproj.CoreCompileInputs.cache
+/Users/meegsmakes/Projects/MJN_Lab2_Condition/MJN_Lab2_Condition/bin/Debug/MJN_Lab2_Condition.exe
+/Users/meegsmakes/Projects/MJN_Lab2_Condition/MJN_Lab2_Condition/bin/Debug/MJN_Lab2_Condition.pdb
+/Users/meegsmakes/Projects/MJN_Lab2_Condition/MJN_Lab2_Condition/obj/x86/Debug/MJN_Lab2_Condition.exe
+/Users/meegsmakes/Projects/MJN_Lab2_Condition/MJN_Lab2_Condition/obj/x86/Debug/MJN_Lab2_Condition.pdb
