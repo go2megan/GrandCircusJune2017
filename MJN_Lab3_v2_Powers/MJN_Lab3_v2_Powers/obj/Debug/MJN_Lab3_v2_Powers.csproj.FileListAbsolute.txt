@@ -1,0 +1,5 @@
+c:\users\go2me\documents\visual studio 2017\Projects\MJN_Lab3_v2_Powers\MJN_Lab3_v2_Powers\bin\Debug\MJN_Lab3_v2_Powers.exe.config
+c:\users\go2me\documents\visual studio 2017\Projects\MJN_Lab3_v2_Powers\MJN_Lab3_v2_Powers\bin\Debug\MJN_Lab3_v2_Powers.exe
+c:\users\go2me\documents\visual studio 2017\Projects\MJN_Lab3_v2_Powers\MJN_Lab3_v2_Powers\bin\Debug\MJN_Lab3_v2_Powers.pdb
+c:\users\go2me\documents\visual studio 2017\Projects\MJN_Lab3_v2_Powers\MJN_Lab3_v2_Powers\obj\Debug\MJN_Lab3_v2_Powers.exe
+c:\users\go2me\documents\visual studio 2017\Projects\MJN_Lab3_v2_Powers\MJN_Lab3_v2_Powers\obj\Debug\MJN_Lab3_v2_Powers.pdb
