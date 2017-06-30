@@ -1,0 +1,5 @@
+c:\users\go2me\documents\visual studio 2017\Projects\MJN_Lab4_ForDecremMeth\MJN_Lab4_ForDecremMeth\bin\Debug\MJN_Lab4_ForDecremMeth.exe.config
+c:\users\go2me\documents\visual studio 2017\Projects\MJN_Lab4_ForDecremMeth\MJN_Lab4_ForDecremMeth\bin\Debug\MJN_Lab4_ForDecremMeth.exe
+c:\users\go2me\documents\visual studio 2017\Projects\MJN_Lab4_ForDecremMeth\MJN_Lab4_ForDecremMeth\bin\Debug\MJN_Lab4_ForDecremMeth.pdb
+c:\users\go2me\documents\visual studio 2017\Projects\MJN_Lab4_ForDecremMeth\MJN_Lab4_ForDecremMeth\obj\Debug\MJN_Lab4_ForDecremMeth.exe
+c:\users\go2me\documents\visual studio 2017\Projects\MJN_Lab4_ForDecremMeth\MJN_Lab4_ForDecremMeth\obj\Debug\MJN_Lab4_ForDecremMeth.pdb
