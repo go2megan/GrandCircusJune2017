@@ -1,0 +1,6 @@
+C:\Users\go2me\Projects\GrandCircusJune2017\MJNLab6_Strings_2ndversion\MJNLab6_version3\MJNLab6_version3\obj\Debug\MJNLab6_version3.csprojResolveAssemblyReference.cache
+C:\Users\go2me\Projects\GrandCircusJune2017\MJNLab6_Strings_2ndversion\MJNLab6_version3\MJNLab6_version3\bin\Debug\MJNLab6_version3.exe.config
+C:\Users\go2me\Projects\GrandCircusJune2017\MJNLab6_Strings_2ndversion\MJNLab6_version3\MJNLab6_version3\bin\Debug\MJNLab6_version3.exe
+C:\Users\go2me\Projects\GrandCircusJune2017\MJNLab6_Strings_2ndversion\MJNLab6_version3\MJNLab6_version3\bin\Debug\MJNLab6_version3.pdb
+C:\Users\go2me\Projects\GrandCircusJune2017\MJNLab6_Strings_2ndversion\MJNLab6_version3\MJNLab6_version3\obj\Debug\MJNLab6_version3.exe
+C:\Users\go2me\Projects\GrandCircusJune2017\MJNLab6_Strings_2ndversion\MJNLab6_version3\MJNLab6_version3\obj\Debug\MJNLab6_version3.pdb
