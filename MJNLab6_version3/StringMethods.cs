@@ -17,6 +17,7 @@ namespace MJN_GrandCircusJune2017_StringsMethods
             while (run == true)
             {
                 Console.WriteLine("Enter a word to translate to Pig Latin:");
+                //Pass the value input to the format to the split to the output pig latin
                 string input = Console.ReadLine();
                 string sentence = ToFormat(input);
                 string word = ToSplit(sentence);
@@ -28,11 +29,13 @@ namespace MJN_GrandCircusJune2017_StringsMethods
         public static string ToFormat(string input)
         {
             string [] sentence = input.ToString();
+            //Had ToLower, replacedw it with ToString to try and account for punctutations and special characters. Didn't work.
         }return sentence;
 
         public static string ToSplit(string sentence)
         {
             string [] word = Regex.Split(sentence);
+            //Try to pass each word to the Pig Lating one after the other. Theory.
         }return word;
 
         public static string [] ToPigLatin(string word)
@@ -42,7 +45,7 @@ namespace MJN_GrandCircusJune2017_StringsMethods
                    vowels = "AEIOUaeio";
             int currentLetter;
 
-            foreach (string [] word)
+            foreach (string [] word) // Tried to make the word passed an array without an index # referenced here.
             {
                 firstLetter = word.Substring(0, 1);
                 restOfWord = word.Substring(1, word.Length - 1);
@@ -50,7 +53,7 @@ namespace MJN_GrandCircusJune2017_StringsMethods
 
                 if (currentLetter == -1)
                 {
-                    word = restOfWord + firstLetter + "ay";
+                    word = restOfWord + firstLetter + "ay"; //Should have maybe done the formatting here to accomplish the format wanted above
                 }
                 else
                 {
