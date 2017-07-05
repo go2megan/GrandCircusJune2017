@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MJN_GrandCircusJune2017_StringsMethods
+namespace MJN_GrandCircusJune2017_StringsMethods 
 {
     class StringsMethods
     {
         public static void Main(string[] args)
         {
+            //Version 3 of 3 attempt at program.  Minus Friday's addition that was highly annotated at top.
             {
                 Console.WriteLine("Welcome the Pig Latin Translator!");//Title of the program
             }
