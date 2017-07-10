@@ -1,0 +1,5 @@
+C:\Users\go2me\Projects\GrandCircusJune2017\MovieApp2\MovieApp2\MovieApp2\bin\Debug\MovieApp2.exe.config
+C:\Users\go2me\Projects\GrandCircusJune2017\MovieApp2\MovieApp2\MovieApp2\bin\Debug\MovieApp2.exe
+C:\Users\go2me\Projects\GrandCircusJune2017\MovieApp2\MovieApp2\MovieApp2\bin\Debug\MovieApp2.pdb
+C:\Users\go2me\Projects\GrandCircusJune2017\MovieApp2\MovieApp2\MovieApp2\obj\Debug\MovieApp2.exe
+C:\Users\go2me\Projects\GrandCircusJune2017\MovieApp2\MovieApp2\MovieApp2\obj\Debug\MovieApp2.pdb
