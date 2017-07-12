@@ -1,0 +1,6 @@
+C:\Users\go2me\Projects\GrandCircusJune2017\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\go2me\Projects\GrandCircusJune2017\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\go2me\Projects\GrandCircusJune2017\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\go2me\Projects\GrandCircusJune2017\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\go2me\Projects\GrandCircusJune2017\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\go2me\Projects\GrandCircusJune2017\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
