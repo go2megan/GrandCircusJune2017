@@ -45,7 +45,9 @@
     <Compile Include="PlayerUser.cs" />
     <Compile Include="CompRandy.cs" />
     <Compile Include="CompRock.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="..\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Roshambo.cs" />
   </ItemGroup>

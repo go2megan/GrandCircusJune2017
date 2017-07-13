@@ -40,10 +40,7 @@ namespace RockPaperScissors
 
                 // From Game user win or lose here
                 //Console.WriteLine(Roshambo.Winner);
-
-                
-                
-                
+              
             }
             run = Continue(); // For a continue lopp
 

@@ -1,32 +1,60 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 
-namespace RockPaperScissors
-{
-    //This class will simply define that its other children need to return a name, a userinput and computerinput
-    abstract class PlayerUser
-    {//This may need to be protected string
-     // Having trouble on Abstract here with squigly brackets.  Pick up here later Wednesday
+//namespace RockPaperScissors
+//{
+//    //This class will simply define that its other children need to return a name, a userinput and computerinput
+//    abstract class PlayerUser
+//    {
+//        //ints
+//        public string userChoice;
+//        public string theComputer;
+//        public string aComputer;
 
-        public virtual string NamePlayers()
-        {
-            //return "Need a name";
-        }
-        public virtual string PlayerPick()
-        {
-            //return choosePlayer;
-        }
-        public virtual string UserInput()
-        {
-            //return inputUser;
-        }
-        public virtual string ComputerInput()
-        {
-            //return userChoice;
-        }
+//        //constructors
+//        public PlayerUser(string userChoice, string theComputer, string aComputer)
+//        {
+//            this.userChoice = userChoice;
+//            this.theComputer = theComputer;
+//            this.aComputer = aComputer;
+//        }
 
-    }
-}
+//        private virtual string AComputer(string aComputer)
+//        {
+//            if (aComputer == "r" || aComputer == "R")
+//            {
+//                return "Rock";
+//            }
+//            else if (aComputer == "b" || aComputer == "B")
+//            {
+//                return "Randy";
+//            }
+//        }
+
+//        private virtual string UsersChoice(string userChoice)
+//        {
+//            if (userChoice == "R" || userChoice == "r")
+//            {
+//                return "R";
+//            }
+//            if (userChoice == "P" || userChoice == "p")
+//            {
+//                return "P";
+//            }
+//            if (userChoice == "S" || userChoice == "s")
+//            {
+//                return "S";
+//            }
+
+//        }
+
+//        //public virtual string ComputersChoice(string theComputer)
+//        {
+//            return theComputer;
+//        }
+
+//    }
+//}

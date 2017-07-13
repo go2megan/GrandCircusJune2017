@@ -6,35 +6,37 @@ using System.Threading.Tasks;
 
 namespace RockPaperScissors
 {
-    class Roshambo : PlayerUser //store three (3) values for rock (r), paper, scissors
+    class Roshambo //store three (3) values for rock (r), paper, scissors and return whether the user is a winner
     {
         public string userChoice;
-        public string rock;
-        public string paper;
-        public string scissors;
-        public string computerAnswer;
-        //It's now 12 a.m. and I need to put this down.  Too many constructurs here, maybe
-        public Roshambo(string computerAnswer, string userChoice, string rock, string paper, string scissors)
-        {
-            //ack! This vs base? 
-        }
+        private string theComputer;
 
-        public virtual string PlayGame(string userChoice)
+        public Roshambo(string userName, string userChoice, string theComputer)
         {
-            if (userChoice == "R" && computerAnswer == "R" || userChoice == "S" && computerAnswer == "S" || userChoice == "P" && computerAnswer == "P")
+            this.userChoice = userChoice;
+            this.theComputer = theComputer;
+
+        }
+        public string Winner(userName, theComputer)
+        {
+            if (userChoice == "R" && theComputer == "R" || userChoice == "S" && theComputer == "S" || userChoice == "P" && theComputer == "P")
             {
                 return "Tie";
             }
-            else if (userChoice == "R" && computerAnswer == "S" || userChoice == "S" && computerAnswer == "P" || userChoice == "P" && computerAnswer == "R")
+            else if (userChoice == "R" && theComputer == "S" || userChoice == "S" && theComputer == "P" || userChoice == "P" && theComputer == "R")
             {
                 return "You win!";
             }
-            else if (computerAnswer == "R" && userChoice == "S" || computerAnswer == "S" && userChoice == "P" || computerAnswer == "P" && userChoice == "R")
+            else if (theComputer == "R" && userChoice == "S" || theComputer == "S" && userChoice == "P" || theComputer == "P" && userChoice == "R")
             {
                 return "Computer wins!";
             }
+
         }
 
-
+        internal void Winner(object userChoice)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
