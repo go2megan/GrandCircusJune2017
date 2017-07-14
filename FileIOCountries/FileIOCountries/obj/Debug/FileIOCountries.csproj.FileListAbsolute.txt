@@ -1,0 +1,5 @@
+C:\Users\go2me\Projects\GrandCircusJune2017\FileIOCountries\FileIOCountries\bin\Debug\FileIOCountries.exe.config
+C:\Users\go2me\Projects\GrandCircusJune2017\FileIOCountries\FileIOCountries\bin\Debug\FileIOCountries.exe
+C:\Users\go2me\Projects\GrandCircusJune2017\FileIOCountries\FileIOCountries\bin\Debug\FileIOCountries.pdb
+C:\Users\go2me\Projects\GrandCircusJune2017\FileIOCountries\FileIOCountries\obj\Debug\FileIOCountries.exe
+C:\Users\go2me\Projects\GrandCircusJune2017\FileIOCountries\FileIOCountries\obj\Debug\FileIOCountries.pdb
